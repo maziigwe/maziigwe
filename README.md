@@ -6,7 +6,7 @@
 [![Typescript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)](https://github.com/adamalston?tab=repositories&q=&type=&language=typescript)
 <!-- ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=007ACC) -->
 
-### Some of the technologies I have worked with
+### Technologies I have worked with
 
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=react) 
 ![Redux](https://img.shields.io/badge/-redux-000?&logo=redux) 
