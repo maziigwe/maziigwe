@@ -6,7 +6,7 @@
 [![Typescript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)](https://github.com/adamalston?tab=repositories&q=&type=&language=typescript)
 <!-- ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=007ACC) -->
 
-### Technologies I have worked with
+### Technologies I have worked with:
 
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=react) 
 ![Redux](https://img.shields.io/badge/-redux-000?&logo=redux) 
@@ -23,7 +23,7 @@
 ![Mongo DB](https://img.shields.io/badge/MongoDB--000000?style=flat&logo=mongodb)
 ![Java](https://img.shields.io/badge/Java--000000?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-
-
+### What I am currently doing:
+I am learning cloud (AWS) and building some side projects.
 
 <a href="https://www.adamalston.com/"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=maziigwe&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="140px" weight="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maziigwe&hide=jupyter%20notebook,html&hide_title=true&hide_border=true&layout=compact&langs_count=10&exclude_repo=AI-Invasion2019,competitive-data-science&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
