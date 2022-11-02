@@ -12,6 +12,7 @@
 ![Redux](https://img.shields.io/badge/-redux-000?&logo=redux) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap) 
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=sass)
+![MaterialUi](https://img.shields.io/badge/-MUI-000?&logo=mui)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-000?&logo=tailwindcss)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
