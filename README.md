@@ -1,9 +1,10 @@
 [![me](https://img.shields.io/badge/Igwe%20Acha-FrontEnd%20Engineer-blue?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/maziigwe)
 
-### Languages
+### Main Languages
 
 [![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=javaScript)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
 [![Typescript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)](https://github.com/adamalston?tab=repositories&q=&type=&language=typescript)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007ACC)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
 <!-- ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=007ACC) -->
 
 ### Technologies I have worked with:
