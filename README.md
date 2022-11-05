@@ -26,6 +26,8 @@
 ![Java](https://img.shields.io/badge/Java--000000?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
+[![@maziigwe's Holopin board](https://holopin.me/maziigwe)](https://holopin.io/@maziigwe)
+
 ### What I am currently doing:
 I am currently learning spring boot (Java) and Cloud Development (AWS).
 
