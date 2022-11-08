@@ -30,7 +30,8 @@
 ### What I am currently doing:
 I am currently learning spring boot (Java) and Cloud Development (AWS).
 
-<a href="https://www.adamalston.com/"><img height="140px" weight="120px" src="https://github-readme-stats.vercel.app/api?username=maziigwe&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="140px" weight="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maziigwe&hide=jupyter%20notebook,html&hide_title=true&hide_border=true&layout=compact&langs_count=10&exclude_repo=AI-Invasion2019,competitive-data-science&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<span><a href="https://www.adamalston.com/"><img height="140px" width="50%" src="https://github-readme-stats.vercel.app/api?username=maziigwe&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
+<a href="https://www.adamalston.com/"><img height="140px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maziigwe&hide=jupyter%20notebook,html&hide_title=true&hide_border=true&layout=compact&langs_count=10&exclude_repo=AI-Invasion2019,competitive-data-science&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><a/></span>
 
 ### Badges:
 [![@maziigwe's Holopin board](https://holopin.me/maziigwe)](https://holopin.io/@maziigwe)
