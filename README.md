@@ -5,7 +5,7 @@
 [![Javascript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javaScript)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
 [![Typescript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=007ACC)](https://github.com/adamalston?tab=repositories&q=&type=&language=typescript)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React&logoColor=007ACC)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=Node&logoColor=007ACC) 
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=007ACC&style=for-the-badge)
 
 ### Technologies I have worked with:
 
