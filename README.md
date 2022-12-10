@@ -19,7 +19,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
 ![Git](https://img.shields.io/badge/Git--000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub--000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Mongo DB](https://img.shields.io/badge/MongoDB--000000?style=flat&logo=mongodb)
