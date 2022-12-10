@@ -24,11 +24,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub--000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Mongo DB](https://img.shields.io/badge/MongoDB--000000?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-[![Java](https://img.shields.io/badge/-Java-ED8B00?&logo=Java&logoColor=007ACC)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
+[![Java](https://img.shields.io/badge/-Java-ED8B00?&logo=java&logoColor=007ACC)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
 
 
 ### What I am currently doing:
-I'm currently learning Node.js (backend dev.) and Cloud Development (AWS).
+I'm currently working with Node.js & Typescript (for backend dev.)
 
 <span><a href="https://www.adamalston.com/"><img height="140px" width="50%" src="https://github-readme-stats.vercel.app/api?username=maziigwe&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
 <a href="https://www.adamalston.com/"><img height="140px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maziigwe&hide=jupyter%20notebook,html&hide_title=true&hide_border=true&layout=compact&langs_count=10&exclude_repo=AI-Invasion2019,competitive-data-science&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><a/></span>
