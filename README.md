@@ -6,6 +6,7 @@
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React&logoColor=007ACC)
 [![Typescript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=007ACC)](https://github.com/adamalston?tab=repositories&q=&type=&language=typescript)
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js&logoColor=007ACC&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=007ACC&style=for-the-badge)
 
 ### Technologies I have worked with:
 
