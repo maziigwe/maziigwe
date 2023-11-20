@@ -7,6 +7,7 @@
 [![Typescript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=007ACC)](https://github.com/adamalston?tab=repositories&q=&type=&language=typescript)
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js&logoColor=007ACC&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=007ACC&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=AWS&logoColor=007ACC&style=for-the-badge)
 
 ### Technologies I have worked with:
 
@@ -16,6 +17,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=sass)
 ![MaterialUi](https://img.shields.io/badge/-MUI-000?&logo=mui)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-000?&logo=tailwindcss)
+![ChakraUI](https://img.shields.io/badge/-ChakraUI-000?&logo=chakraui)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
